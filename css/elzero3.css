@@ -2280,10 +2280,10 @@ z-index: 1;
 }
 @media (min-width:1375px){
     .pricing-plans::before{
-        background-image: url(/img/dots.png);
+        background-image: url(img/dots.png);
     }
     .pricing-plans::after{
-        background-image: url(/img/dots.png);
+        background-image: url(img/dots.png);
     }
 }
 .pricing-plans .contenar .plan{
@@ -2732,7 +2732,7 @@ z-index: 1;
 }
 .our-awesome::before{
     content: "";
-    background-image: url(/img/stats.jpg);
+    background-image: url(img/stats.jpg);
     background-size: cover;
     width: 100%;
     height: 100%;
@@ -2900,7 +2900,7 @@ z-index: 1;
     opacity: 0;
 }
 .discount .contenarj .left-discount::before{
-    background-image: url(/img/discount-background1.jpg);
+    background-image: url(img/discount-background1.jpg);
     animation: background1 6s linear  infinite ;
     
 }
@@ -2911,7 +2911,7 @@ z-index: 1;
     }
 }
 .discount .contenarj .left-discount::after{
-    background-image: url(/img/discount-background2.jpg);
+    background-image: url(img/discount-background2.jpg);
     animation: background2 5s linear  infinite;
 }
 @keyframes background2{
