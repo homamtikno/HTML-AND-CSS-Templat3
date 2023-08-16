@@ -2567,17 +2567,17 @@ input[type="radio"]:checked + label{
     }
     
 } 
-@media (max-width:990px) {
+@media (max-width:991px) {
     .top-videos .contenar .main-screen .left-segment{
       position: relative;
     }
     .top-videos .contenar .main-screen .left-segment img ,
    .top-videos .contenar .main-screen .left-segment video{
-    width: 95%;
+    width: 96%;
     max-height: 398px;
     padding: 10px;
     position: absolute;
-    left: 1%;
+    left: 0%;
     opacity: 0;
     z-index: 2;
     top: 100%;
