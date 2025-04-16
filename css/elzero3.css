@@ -3084,6 +3084,11 @@ footer .copy{
     color: white;
     border-top:0.5px rgb(110 110 110) solid;
 }
+     footer .footer-copyRight{
+    color:white;
+    text-decoration:none;
+         
+ } 
 @media (max-width:1200px){
     footer .contenar{
         grid-template-columns: repeat(3,1fr);
@@ -3106,11 +3111,7 @@ footer .copy{
  footer .col4{
     padding: 10px;
  } 
-     footer .footer-copyRight{
-    color:white;
-    text-decoration:none;
-         
- } 
+
 }
 
 /* end footer */
